@@ -7,8 +7,8 @@ The `VisualResume` package contains the `VisualResume.R` function which produces
 
 ``` r
 VisualResume::VisualResume(
- titles.left = c("Walter White, PhD", "Chemistry, Cooking, Pizza", "*Built with love in R using the InfoResume package: www.ndphillips.github.io/inforesume"),
-titles.right = c("www.lospolloshermanos.com", "TheOneWhoKnocks@gmail.com", "Full Resume: www.ndphillips.github.io"),
+ titles.left = c("Diego J. Lizcano, PhD", "Wildlife biology, mammals, photography", "*Built with love in R using the InfoResume package: www.ndphillips.github.io/inforesume"),
+titles.right = c("www.lospolloshermanos.com", "dj.lizcano@gmail.com", "Full Resume: dlizcano.github.io"),
 titles.right.cex = c(2, 2, 1),
 titles.left.cex = c(4, 2, 1),
 timeline.labels = c("Education", "Teaching"),
